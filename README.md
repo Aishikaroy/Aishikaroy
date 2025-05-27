@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, cosmos, art, martial arts
 - 🌱 I’m currently pursuing Master's in Computer Application
 - 📫 How to reach me
--email-aishikaroy2003@gmail.com
+aishikaroy2003@gmail.com
 - ⚡ Fun fact: Our life sometimes goes in reverse
 
 <!---
